@@ -1,6 +1,11 @@
 streamlit
-matplotlib
 numpy
 pandas
-torch
+matplotlib
+plotly
 scikit-learn
+torch
+torchvision
+torchaudio
+PyWavelets
+networkx
