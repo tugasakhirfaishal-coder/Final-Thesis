@@ -6,9 +6,6 @@ plotly
 scikit-learn
 PyWavelets
 networkx
-
-torch==2.2.2
-torchvision==0.17.2
-torchaudio==2.2.2
-
-dgl==1.1.2
+torch
+torchvision
+torchaudio
