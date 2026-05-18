@@ -9,3 +9,4 @@ torchvision
 torchaudio
 PyWavelets
 networkx
+dgl==1.1.2
