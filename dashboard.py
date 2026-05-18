@@ -61,7 +61,7 @@ except ImportError:
 # ─────────────────────────────────────────────────────────────────────────────
 # KONSTANTA GLOBAL
 # ─────────────────────────────────────────────────────────────────────────────
-DEFAULT_OUTPUT_DIR = r"D:\RILL PERCOBAAN\PERCOBAAN 4"
+DEFAULT_OUTPUT_DIR = "models"
 
 N_CHANNELS   = 18
 N_WINDOWS    = 15
